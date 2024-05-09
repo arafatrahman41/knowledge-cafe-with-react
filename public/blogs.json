@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/gwQJFXd/programming-script-text-coding-word.jpg",
+        "title": "The Art of Programming",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/2ZNjyLd/linkedin-sales-solutions-p-At-A8xe-i-VM-unsplash.jpg",
+        "posted_date": "2024-05-09",
+        "reading_time": 30,
+        "hashtags": [
+            "programming",
+            "coding",
+            "technology"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co/GcP5R9Z/programming-background-collage.jpg",
+        "title": "Exploring the Universe",
+        "author": "Jane Smith",
+        "author_img": "https://i.ibb.co/K2F2THG/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
+        "posted_date": "2024-05-08",
+        "reading_time": 45,
+        "hashtags": [
+            "science",
+            "space",
+            "astronomy"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co/xs3Pm02/ai-site-helping-with-software-production.jpg",
+        "title": "Cooking with Flavors",
+        "author": "Michael Johnson",
+        "author_img": "https://i.ibb.co/7zN5G57/ben-den-engelsen-YUu9-UAc-OKZ4-unsplash.jpg",
+        "posted_date": "2024-05-07",
+        "reading_time": 25,
+        "hashtags": [
+            "cooking",
+            "recipes",
+            "food"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co/k4YKmhb/development-with-abstract-background.jpg",
+        "title": "The Power of Mindfulness",
+        "author": "Mr. White",
+        "author_img": "https://i.ibb.co/HnF72bR/rishabh-dharmani-Aph5u9-CDd-YY-unsplash.jpg",
+        "posted_date": "2024-05-06",
+        "reading_time": 20,
+        "hashtags": [
+            "mindfulness",
+            "wellness",
+            "meditation"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/f4DWtSN/top-view-desk-concept-with-coffee.jpg",
+        "title": "Traveling Through Time",
+        "author": "David Lee",
+        "author_img": "https://i.ibb.co/2WjpTJt/sobhan-joodi-r9hi9o-Ml-Vvc-unsplash.jpg",
+        "posted_date": "2024-05-05",
+        "reading_time": 40,
+        "hashtags": [
+            "history",
+            "travel",
+            "adventure"
+        ]
+    }
+]
