@@ -7,7 +7,7 @@ function App() {
  return (
     <>
       <Header></Header>
-      <div className='md:flex items-center'>
+      <div className='md:flex gap-8'>
       <Blogs></Blogs>
       <Bookmarks></Bookmarks>
       </div>
