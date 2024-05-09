@@ -3,6 +3,7 @@ import { CiBookmark } from "react-icons/ci";
 
 const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
   const {
+    id,
     title,
     cover,
     author,
@@ -52,7 +53,7 @@ const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
           </span>
         ))}
       </p>
-      <button onClick={() => handleMarkAsRead(reading_time)} className="mb-6 underline border-[#6047EC] text-[#6047ec] font-semibold">Mark As Read</button>
+      <button onClick={() => handleMarkAsRead(reading_time, id)} className="mb-6 underline border-[#6047EC] text-[#6047ec] font-semibold">Mark As Read</button>
       <hr />
     </div>
   );
